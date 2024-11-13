@@ -1,0 +1,14 @@
+form {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+}
+
+.element {
+	display: flex;
+
+	label {
+		display: flex;
+		width: 8rem;
+	}
+}
